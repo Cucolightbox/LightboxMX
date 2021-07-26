@@ -1,0 +1,2 @@
+# LightboxMX
+Pagina lightbox
